@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Trabalho5
+comment1.params=
+comment1.target=void\ Menu()
+comment10.params=balcao
+comment10.target=int\ objBalcao(double[])
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=poltronas\ filme
+comment2.target=void\ imprimePoltronas(int[][],\ java.lang.String)
+comment3.params=estante
+comment3.target=void\ imprimeEstante(double[][])
+comment4.params=balcao
+comment4.target=void\ imprimeBalcao(double[])
+comment5.params=poltronas\ lugar
+comment5.target=void\ selecionarLugar(int[][],\ int)
+comment6.params=estante\ balcao\ lugar\ controle
+comment6.target=void\ guardarObjeto(double[][],\ double[],\ int,\ int)
+comment7.params=estante
+comment7.target=double\ porcentagem(double[][])
+comment8.params=poltrona\ estante
+comment8.target=void\ fileiraObjEstante(int[][],\ double[][])
+comment9.params=estante\ balcao
+comment9.target=void\ objVolumoso(double[][],\ double[])
+numComments=12
